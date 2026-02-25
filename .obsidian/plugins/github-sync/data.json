@@ -1,5 +1,5 @@
 {
-  "remoteURL": "git@github.com:coffee-mall/vault.git",
+  "remoteURL": "https://github.com/coffee-mall/zettelkasten.git",
   "gitLocation": "",
   "syncinterval": 10,
   "isSyncOnLoad": true,
