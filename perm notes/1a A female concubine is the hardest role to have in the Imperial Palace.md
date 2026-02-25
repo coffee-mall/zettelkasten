@@ -4,7 +4,8 @@ Out of all the roles to have, one of the hardest is to be a concubine. This is b
 
 related:
 - [[1 The Chinese Imperial Palace is the hardest place to live]]
-- 
+- [[1a1 All female concubines is striving for the role of empress dowager]]
+- [[1a2 C-Dramas have the tendency to romanticise what court politics truly is]]
 
 ##### Tags
 #imperialchina #politics #concubines
