@@ -1,4 +1,4 @@
-This is by far one of the other most important types of studies that occurs in humans. [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e  OpenStax]] tells us that "...physiology is about function.". It is quite literally the study of chemicals and physics that make up the 
+This is by far one of the other most important types of studies that occurs in humans. [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e  OpenStax]] tells us that "...physiology is about function.". It is quite literally the study of chemicals and physics that make up the structure of the human body. 
 
 ---
 references: [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e  OpenStax]]
