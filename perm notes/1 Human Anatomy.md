@@ -7,7 +7,7 @@ references: [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e
 
 related:
 - [[1a Human anatomy and physiology are two different things]]
-- [[1b Anatomy was studied in wartimes]]
+- [[1b Anatomy began to be studied in wartimes]]
 - [[1c Anatomy has different substudies]]
 ##### Tags
 #anatomy #medicine 
