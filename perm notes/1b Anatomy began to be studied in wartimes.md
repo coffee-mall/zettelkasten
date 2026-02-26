@@ -1,4 +1,4 @@
-One thing about anatomy is that the first ever time that we saw anatomy studied is during wartimes. Connecting the previous and current injuries with the wounds that all the different soldiers had, this let the doctors and the nurses at the time slowly begin to 
+One thing about anatomy is that the first ever time that we saw anatomy studied is during wartimes. Connecting the previous and current injuries with the wounds that all the different soldiers had, this let the doctors and the nurses at the time slowly begin to piece together and comprehend the earliest known information regarding the human body. 
 
 | "...anatomy was first studied by observing the exterior of the body and observing the wounds of soldiers and other injuries." - [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e  OpenStax]]
 
