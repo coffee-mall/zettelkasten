@@ -8,7 +8,7 @@ references: [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e
 related:
 - [[1a1a Physiology is most commonly the study of homeostasis]]
 - [[1a1b Physiologists can look from the function of organs down to the function of molecules]]
-- 
+- [[1a Human anatomy and physiology are two different things]]
 ##### Tags
 #physiology #medicine 
 *26 Feb, 2026*, *2119*

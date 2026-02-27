@@ -8,7 +8,7 @@ references: [[1.1 Overview of Anatomy and Physiology - Anatomy and Physiology 2e
 related:
 - [[1a1 Human physiology]]
 - [[1a2 Physiology is function and anatomy is structure]]
-- 
+- [[1 Human Anatomy]]
 ##### Tags
 #anatomy #medicine 
 *26 Feb, 2026*, *2101*
