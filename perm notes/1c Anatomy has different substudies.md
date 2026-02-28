@@ -11,5 +11,5 @@ related:
 - [[1c3 Regional anatomy]]
 - [[1 Human Anatomy]]
 ##### Tags
-#medicine #anatomy 
+[[medicine]] #anatomy 
 *26 Feb, 2026*, *2116*
