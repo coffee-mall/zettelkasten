@@ -10,5 +10,5 @@ related:
 - 
 - 
 ##### Tags
-#medicine #physiology 
+[[medicine]] [[physiology]] 
 *27 Feb, 2026*, *1432*

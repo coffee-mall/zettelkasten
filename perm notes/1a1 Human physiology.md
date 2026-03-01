@@ -10,5 +10,5 @@ related:
 - [[1a1b Physiologists can look from the function of organs down to the function of molecules]]
 - [[1a Human anatomy and physiology are two different things]]
 ##### Tags
-#physiology #medicine 
+[[physiology]]  [[medicine]]
 *26 Feb, 2026*, *2119*

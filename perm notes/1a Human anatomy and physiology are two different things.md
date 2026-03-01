@@ -10,5 +10,5 @@ related:
 - [[1a2 Physiology is function and anatomy is structure]]
 - [[1 Human Anatomy]]
 ##### Tags
-#anatomy #medicine 
+[[anatomy]] [[medicine]] 
 *26 Feb, 2026*, *2101*

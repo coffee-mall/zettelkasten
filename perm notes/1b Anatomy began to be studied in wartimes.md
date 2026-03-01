@@ -14,5 +14,5 @@ related:
 - [[1c Anatomy has different substudies]] to see that in the modern day, it has evolved to envelop even more different 
 - [[1 Human Anatomy]]
 ##### Tags
-#anatomy #medicine  
+[[anatomy]] [[medicine]]
 *26 Feb, 2026*, *2106*

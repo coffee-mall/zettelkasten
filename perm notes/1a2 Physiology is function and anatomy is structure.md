@@ -10,5 +10,5 @@ related:
 - [[1a1a Physiology is most commonly the study of homeostasis]] to see what physiology is the study of. 
 - [[1a Human anatomy and physiology are two different things]]
 ##### Tags
-#physiology #medicine 
+[[physiology]] [[medicine]]
 *27 Feb, 2026*, *1426*

@@ -10,5 +10,5 @@ related:
 - [[1b Anatomy began to be studied in wartimes]]
 - [[1c Anatomy has different substudies]]
 ##### Tags
-#anatomy #medicine 
+[[anatomy]] [[medicine]]
 *26 Feb, 2026*, *1802*

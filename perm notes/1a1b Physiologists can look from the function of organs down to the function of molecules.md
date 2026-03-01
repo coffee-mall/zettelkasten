@@ -10,5 +10,5 @@ related:
 - [[1a2 Physiology is function and anatomy is structure]] to see that there is a key difference between physiology and anatomy. 
 - [[1a1a Physiology is most commonly the study of homeostasis]] to see what else physiology is most commonly the function of. 
 ##### Tags
-#physiology #medicine 
+[[medicine]] [[physiology]]
 *27 Feb, 2026*, *1435*
